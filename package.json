@@ -1,0 +1,22 @@
+{
+  "name": "uiassign2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootswatch": "^3.3.7",
+    "d3": "^4.11.0",
+    "react": "^16.0.0",
+    "react-bootstrap": "^0.31.3",
+    "react-chart-all": "^1.0.4",
+    "react-d3-radar": "^0.2.6",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.14"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

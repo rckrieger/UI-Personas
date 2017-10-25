@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #66cc94  ;
+  text-align: left;
+  vertical-align: middle;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-PersonBox
+{
+  text-align: left;
+}
+.App-title {
+  font-size: 1.5;
+}
+.App-Name{
+  text-align: left;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-IDPhoto{
+  align-self: left;
+  text-align: left;
+  align-content: flex-start;
+}
